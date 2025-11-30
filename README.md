@@ -16,7 +16,7 @@ Taskify is a modern workspace built to help you stay organized and productive. Y
 ## 📸 Screenshots
 
 Landing Page:
-<img width"1632" height ="925" alt="image" src="public/image/LandingPage.png" />
+<img width="1632" height="925" alt="image" src="public/images/LandingPage.png" />
 
 Login Page:
 <img width="1632" height="925" alt="image" src="public/images/LoginPage.png" />
