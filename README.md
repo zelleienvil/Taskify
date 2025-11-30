@@ -1,2 +1,73 @@
-## Preview Website
-![Preview](public/images/Dashboard.png)
+# ✅ Taskify
+
+Taskify is a modern workspace built to help you stay organized and productive. You can create and manage tasks, set priorities, and track progress. Whether you’re a student, freelancer, or professional, Taskify gives you everything to plan, focus, and achieve more effortlessly.
+
+---
+
+## 🚀 Features
+
+- ✅ Register / Login
+- 🧾 Create, view, update, and delete tasks
+- 🌙 Clean, responsive UI (Tailwind CSS)
+- ⚡ Fast SPA experience using React + Inertia.js
+
+---
+
+## 📸 Screenshots
+
+Login Page:
+<img width="1632" height="925" alt="image" src="public/images/Login_Page.png" />
+
+Register Page:
+<img width="1678" height="909" alt="image" src="public/images/Register_Page.png" />
+
+Dashboard:
+<img width="1860" height="916" alt="image" src="public/images/Dashboard.png" />
+
+List:
+<img width="1738" height="963" alt="image" src="public/images/List_Page.png"/>
+
+Create New List:
+<img width="1738" height="963" alt="image" src="public/images/Create_List.png"/>
+
+Task:
+<img width="1738" height="963" alt="image" src="public/images/Task_Page.png"/>
+
+Create New Task:
+<img width="1738" height="963" alt="image" src="public/images/Create_Task.png"/>
+
+
+
+---
+
+## 🔧 Tech Stack
+
+- **Laravel** 12 (API backend)
+- **React** 19 + **Inertia.js** (SPA frontend)
+- **Tailwind CSS** (styling)
+- **MySQL** (database)
+
+---
+
+## 🔨 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/zelleienvil/Taskify.git
+cd Taskify
+
+# 2. Install backend dependencies
+composer install
+
+# 3. Install frontend dependencies
+npm install && npm run dev
+
+# 4. Copy .env file and set keys
+cp .env.example .env
+php artisan key:generate
+
+# 5. Set up database (MySQL)
+php artisan migrate
+
+# 6. Start local servers
+php artisan serve
