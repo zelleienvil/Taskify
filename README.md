@@ -2,6 +2,12 @@
 
 Taskify is a modern workspace built to help you stay organized and productive. You can create and manage tasks, set priorities, and track progress. Whether you’re a student, freelancer, or professional, Taskify gives you everything to plan, focus, and achieve more effortlessly.
 
+## 👥 Team Project
+
+- Adi Pratama Putra
+- Erizka Nia Ramadhani
+- Zakki Khairul Abdulaziz
+
 ---
 
 ## 🚀 Features
