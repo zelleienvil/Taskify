@@ -1,2 +1,2 @@
 ## Preview Website
-![Preview](images/Dashboard.png)
+![Preview](public/images/Dashboard.png)
