@@ -16,28 +16,28 @@ Taskify is a modern workspace built to help you stay organized and productive. Y
 ## 📸 Screenshots
 
 Landing Page:
-<img width="1632" height="925" alt="image" src="public/images/LandingPage.png" />
+<img width="800" height="450" alt="image" src="public/images/LandingPage.png" />
 
 Login Page:
-<img width="1632" height="925" alt="image" src="public/images/LoginPage.png" />
+<img width="800" height="450" alt="image" src="public/images/LoginPage.png" />
 
 Register Page:
-<img width="1678" height="909" alt="image" src="public/images/RegisterPage.png" />
+<img width="800" height="450" alt="image" src="public/images/RegisterPage.png" />
 
 Dashboard:
-<img width="1860" height="916" alt="image" src="public/images/Dashboard.png" />
+<img width="800" height="450" alt="image" src="public/images/Dashboard.png" />
 
 List:
-<img width="1738" height="963" alt="image" src="public/images/ListsPage.png"/>
+<img width="800" height="450" alt="image" src="public/images/ListsPage.png"/>
 
 Create New List:
-<img width="1738" height="963" alt="image" src="public/images/CreateList.png"/>
+<img width="800" height="450" alt="image" src="public/images/CreateList.png"/>
 
 Task:
-<img width="1738" height="963" alt="image" src="public/images/TasksPage.png"/>
+<img width="800" height="450" alt="image" src="public/images/TasksPage.png"/>
 
 Create New Task:
-<img width="1738" height="963" alt="image" src="public/images/CreateTask.png"/>
+<img width="800" height="450" alt="image" src="public/images/CreateTask.png"/>
 
 
 
